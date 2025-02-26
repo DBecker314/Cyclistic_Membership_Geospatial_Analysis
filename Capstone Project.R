@@ -1,4 +1,4 @@
-setwd("C:/Users/becke/OneDrive/Desktop/Portfolio/Coursera Capstone 1")
+setwd("C:/Users/becke/OneDrive/Desktop/Portfolio/Coursera Capstone 1/Citibike-Analysis")
 library(tidyverse)
 library(lubridate)
 library(geosphere)
@@ -6,11 +6,11 @@ library(geosphere)
 ##Aggregate Data
 
 #read in data
-Q1_2019 <- read.csv("Divvy_Trips_2019_Q1.csv")
-Q2_2019 <- read.csv("Divvy_Trips_2019_Q2.csv")
-Q3_2019 <- read.csv("Divvy_Trips_2019_Q3.csv")
-Q4_2019 <- read.csv("Divvy_Trips_2019_Q4.csv")
-Q1_2020 <- read.csv("Divvy_Trips_2020_Q1.csv")
+Q1_2019 <- read.csv("Citibike Data/Divvy_Trips_2019_Q1.csv")
+Q2_2019 <- read.csv("Citibike Data/Divvy_Trips_2019_Q2.csv")
+Q3_2019 <- read.csv("Citibike Data/Divvy_Trips_2019_Q3.csv")
+Q4_2019 <- read.csv("Citibike Data/Divvy_Trips_2019_Q4.csv")
+Q1_2020 <- read.csv("Citibike Data/Divvy_Trips_2020_Q1.csv")
 
 #determine structure of data
 str(Q1_2019)
