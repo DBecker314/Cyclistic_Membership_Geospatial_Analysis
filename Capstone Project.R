@@ -215,7 +215,7 @@ station_trips_day$total_avg_trip_duration <- (station_trips_day$start_trip_durat
 all_trips_v3 <- all_trips_v2 %>% select(ride_id, date, day_of_week, day, month, year, trip_duration)
 
 #Export to CSV
-write.csv(station_trips_day, file = 'station_trips_day.csv')
-write.csv(station_trips_month, file = 'station_trips_month.csv')
-write.csv(all_trips_v3, file = 'all_trips.csv')
+write.csv(station_trips_day, file = 'Visualization Data/station_trips_day.csv')
+write.csv(station_trips_month, file = 'Visualization Data/station_trips_month.csv')
+write.csv(all_trips_v3, file = 'Citibike Data/all_trips.csv')
 
