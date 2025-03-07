@@ -12,9 +12,9 @@ The following recommendations were made based on the conclusions below and the c
 - Add seasonal and weekend passes
 - Add discount for members for longer trip durations on weekends
 
-The map below displays bike-sharing stations where the size and shade of each circle represents the average ride count and average trip duration respectively for each station.
-![Map](https://github.com/user-attachments/assets/c0d37e34-ab08-4e79-a914-eb7e4ee77fd1)
+The map below displays bike-sharing stations where the size and shade of each circle represent key data from each station.  Larger circles means more total trips to and from the station, and darker circles means longer trips to and from the station.  This data could be used to determine the most cost-effective places to advertise membership opportunities.
 
+![Map](https://github.com/user-attachments/assets/c0d37e34-ab08-4e79-a914-eb7e4ee77fd1)
 
 ### Data
 
