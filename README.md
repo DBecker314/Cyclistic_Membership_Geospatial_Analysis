@@ -24,6 +24,7 @@ While Cyclistic is a fictional company, the data used for this project comes fro
 - Divvy_Trips_2019_Q3.zip
 - Divvy_Trips_2019_Q4.zip
 - Divvy_Trips_2020_Q1.zip
+
 This data can be found [HERE](https://divvy-tripdata.s3.amazonaws.com/index.html).  
 
 ### Conclusions
