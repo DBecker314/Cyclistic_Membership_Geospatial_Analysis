@@ -2,7 +2,7 @@
 
 ### Overview
 
-This project is based on a fictional scenario at the bike-sharing company Cyclistic.  The goal of this project is to make data-driven, marketing recommendations in order to convert casual customers into annual subscribers.
+This project is based on a fictional scenario at the bike-sharing company Cyclistic.  The goal of this project is to make data-driven, marketing recommendations in order to convert casual customers into annual subscribers.  While this scenario is fictional, the data used for this analysis comes from the real company Divvy based in Chicago.
 
 ### Results
 
@@ -12,9 +12,9 @@ The following recommendations were made based on the conclusions below and the c
 - Add seasonal and weekend passes
 - Add discount for members for longer trip durations on weekends
 
-The map below displays bike-sharing stations where the size and shade of each circle represent key data from each station.  Larger circles means more total trips to and from the station, and darker circles means longer trips to and from the station.  This data could be used to determine the most cost-effective places to advertise membership opportunities.
+The map below displays bike-sharing stations where the size and shade of each circle represent key data from each station.  The size of each circle represents the average trip duration to and from the station, and the color of each circle represents the ratio of non-members to members using the station where dark blue is mostly non-members and red is mostly members.  This data could be used to determine the most cost-effective places to advertise membership opportunities.
 
-![Map](https://github.com/user-attachments/assets/c0d37e34-ab08-4e79-a914-eb7e4ee77fd1)
+![image](https://github.com/user-attachments/assets/b6259fe0-9d2c-4449-b150-30298c1539d8)
 
 ### Data
 
